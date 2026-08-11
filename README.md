@@ -9,9 +9,7 @@
 Me chamo Pedro Andreoli, tenho 19 anos e sou natural de Goiânia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC-GO. Sou apaixonado por tecnologia e programação, e acredito muito na importância de processos bem organizados para o desenvolvimento de software. Estou sempre aprendendo e buscando aprimorar minhas habilidades a cada dia.
 
 <p align="left">
-  <a href="https://portfolio-pedro-yonp.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
+    </a>
   <a href="https://www.linkedin.com/in/pedro-nascimento-andreoli-b41a17282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
